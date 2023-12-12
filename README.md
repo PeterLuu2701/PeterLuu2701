@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Long, you can call me Peter</h1>
 <h3 align="center">Let's enjoy the source</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=long2711997&label=Profile%20views&color=0e75b6&style=flat" alt="long2711997" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=peterluu2701&label=Profile%20views&color=0e75b6&style=flat" alt="peterluu2701" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=long2711997" alt="long2711997" /></a> </p>
 
